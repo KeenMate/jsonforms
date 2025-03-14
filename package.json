@@ -49,13 +49,5 @@
     "typescript": "~5.5.0",
     "webpack": "^5.78.0",
     "webpack-merge": "^5.10.0"
-  },
-  "pnpm": {
-    "overrides": {
-      "svelte": "link:../../../../../.local/share/pnpm/global/5/node_modules/@jsonforms/svelte"
-    }
-  },
-  "dependencies": {
-    "svelte": "link:../../../../../.local/share/pnpm/global/5/node_modules/@jsonforms/svelte"
   }
 }
